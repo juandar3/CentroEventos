@@ -1,0 +1,77 @@
+may 18, 2026 2:00:31 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,se registro el usuario juandavidreyeszapata@gmail.com,2026-05-18 14:0
+may 18, 2026 2:01:01 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario juandavidreyeszapata@gmail.comha ingresado en la aplicacion,2026-05-18 14:1
+may 18, 2026 2:02:29 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: CREAR EVENTO,el administrador juandavidreyeszapata@gmail.com ha creado el evento 4347,2026-05-18 14:2
+may 18, 2026 2:03:45 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: CERRAR SECCION,el usuario juandavidreyeszapata@gmail.comse ha desconectado,2026-05-18 14:3
+may 18, 2026 2:04:08 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario juandavidreyeszapata@gmail.comha ingresado en la aplicacion,2026-05-18 14:4
+may 18, 2026 2:04:21 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: CERRAR SECCION,el usuario juandavidreyeszapata@gmail.comse ha desconectado,2026-05-18 14:4
+may 18, 2026 2:05:51 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,se registro el usuario melomarinmariacamila@gmail.com,2026-05-18 14:5
+may 18, 2026 2:06:07 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario melomarinmariacamila@gmail.comha ingresado en la aplicacion,2026-05-18 14:6
+may 18, 2026 2:46:14 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: CERRAR SECCION,el usuario melomarinmariacamila@gmail.comse ha desconectado,2026-05-18 14:46
+may 18, 2026 2:46:39 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario juandavidreyeszapata@gmail.comha ingresado en la aplicacion,2026-05-18 14:46
+may 18, 2026 2:49:24 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: CREAR EVENTO,el administrador juandavidreyeszapata@gmail.com ha creado el evento 9124,2026-05-18 14:49
+may 18, 2026 2:50:04 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: PROGRAMAR APERTURA,el administrador juandavidreyeszapata@gmail.com ha asiganado la hora de la apertura de la taquilla del evento 9124,2026-05-18 14:50
+may 18, 2026 2:50:07 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: CERRAR SECCION,el usuario juandavidreyeszapata@gmail.comse ha desconectado,2026-05-18 14:50
+may 18, 2026 2:50:40 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario melomarinmariacamila@gmail.comha ingresado en la aplicacion,2026-05-18 14:50
+may 18, 2026 2:51:36 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: COMPRAR ASIENTO,el usuario melomarinmariacamila@gmail.com ha slecionado un asiendoto de tipp ORO
+el codigo de su boleta es 2923,2026-05-18 14:51
+may 18, 2026 2:51:51 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: COMPRAR ASIENTO,el usuario melomarinmariacamila@gmail.com ha slecionado un asiendoto de tipp ORO
+el codigo de su boleta es 4260,2026-05-18 14:51
+may 18, 2026 2:52:26 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: CERRAR SECCION,el usuario melomarinmariacamila@gmail.comse ha desconectado,2026-05-18 14:52
+may 18, 2026 2:52:50 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario juandavidreyeszapata@gmail.comha ingresado en la aplicacion,2026-05-18 14:52
+may 18, 2026 2:53:57 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: CERRAR SECCION,el usuario juandavidreyeszapata@gmail.comse ha desconectado,2026-05-18 14:53
+may 18, 2026 2:54:13 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario melomarinmariacamila@gmail.comha ingresado en la aplicacion,2026-05-18 14:54
+may 18, 2026 2:56:06 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario juandavidreyeszapata@gmail.comha ingresado en la aplicacion,2026-05-18 14:56
+may 18, 2026 9:35:20 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario juandavidreyeszapata@gmail.comha ingresado en la aplicacion,2026-05-18 21:35
+may 18, 2026 9:37:31 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+WARNING: elimino el evento 123,el administrador juandavidreyeszapata@gmail.com,2026-05-18 21:37
+may 18, 2026 9:37:34 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+WARNING: elimino el evento 6729,el administrador juandavidreyeszapata@gmail.com,2026-05-18 21:37
+may 18, 2026 9:37:39 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+WARNING: elimino el evento 5079,el administrador juandavidreyeszapata@gmail.com,2026-05-18 21:37
+may 18, 2026 9:38:01 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+WARNING: elimino el evento 1371,el administrador juandavidreyeszapata@gmail.com,2026-05-18 21:38
+may 18, 2026 9:38:05 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+WARNING: elimino el evento 6345,el administrador juandavidreyeszapata@gmail.com,2026-05-18 21:38
+may 18, 2026 9:38:32 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: CERRAR SECCION,el usuario juandavidreyeszapata@gmail.comse ha desconectado,2026-05-18 21:38
+may 18, 2026 9:39:01 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario melomarinmariacamila@gmail.comha ingresado en la aplicacion,2026-05-18 21:39
+may 18, 2026 9:40:24 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: COMPRAR ASIENTO,el usuario melomarinmariacamila@gmail.com ha slecionado un asiendoto de tipp COBRE
+el codigo de su boleta es 7107,2026-05-18 21:40
+may 18, 2026 9:45:20 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario juandavidreyeszapata@gmail.comha ingresado en la aplicacion,2026-05-18 21:45
+may 18, 2026 11:28:03 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario juandavidreyeszapata@gmail.comha ingresado en la aplicacion,2026-05-18 23:28
+may 18, 2026 11:40:46 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: CERRAR SECCION,el usuario juandavidreyeszapata@gmail.comse ha desconectado,2026-05-18 23:40
+may 18, 2026 11:42:22 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,se registro el usuario jeronimoreyes@gmail.com,2026-05-18 23:42
+may 18, 2026 11:44:42 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario melomarinmariacamila@gmail.comha ingresado en la aplicacion,2026-05-18 23:44
+may 18, 2026 11:51:40 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: CERRAR SECCION,el usuario melomarinmariacamila@gmail.comse ha desconectado,2026-05-18 23:51
+may 18, 2026 11:51:58 P. M. co.edu.uniquindio.edu.co.centroeventosuq.utils.ArchivoUtil guardarRegistroLog
+INFO: REGISTRO,el usuario juandavidreyeszapata@gmail.comha ingresado en la aplicacion,2026-05-18 23:51
